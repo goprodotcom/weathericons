@@ -1,0 +1,6 @@
+
+Moon icon sizes:
+
+32 x 32 px
+64 x 64 px
+96 x 96 px

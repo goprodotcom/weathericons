@@ -1,0 +1,6 @@
+
+Tab bar icon sizes:
+
+23 x 23 px
+46 x 46 px
+69 x 69 px
